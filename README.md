@@ -1,4 +1,4 @@
-# sailok-portfolio
+# SailokChinta
 
 ## Project setup
 ```

@@ -5,7 +5,7 @@ import Skills from '../components/Skills';
 import Education from '../components/Education';
 import Experience from '../components/Experience';
 import Contact from '../components/Contact';
-import PageNotFound from '../components/PageNotFound';
+import PageNotFound from '../components/PageNotFoundError';
 
 Vue.use(Router);
 
